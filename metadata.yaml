@@ -1,0 +1,31 @@
+_repo: Youth-Vol-I-No-6-August-1902_65540
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Coggins, Herbert Leonard
+    aliases:
+    - Coggins, H. L.
+    - Coggins, Herbert L. Coggins
+    birthdate: 1881
+    deathdate: 1974
+    gutenberg_agent_id: '53126'
+    url: http://www.gutenberg.org/2009/agents/53126
+    wikipedia: https://en.wikipedia.org/wiki/Herbert_L._Coggins
+description: ''
+gutenberg_issued: '2021-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Youth, Vol. I, No. 6, August 1902
+url: http://www.gutenberg.org/ebooks/65540
